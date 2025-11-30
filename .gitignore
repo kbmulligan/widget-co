@@ -1,0 +1,14 @@
+# local tf dir
+.terraform/
+
+# state files
+*.tfstate
+*.tfstate.*
+
+# crash log files
+crash.log
+crash.*.log
+
+# vars
+*.tfvars
+*.tfvars.json
